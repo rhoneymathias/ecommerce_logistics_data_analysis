@@ -32,6 +32,22 @@ O estudo foi desenvolvido como parte do Tech Challenge da pós-graduação em Da
 - O tempo total de entrega impacta mais a satisfação do que apenas o cumprimento do prazo
 
 ---
+## Visualizações
+
+### Comparação entre pedidos atrasados e entregues no prazo
+
+Este gráfico evidencia que o principal gargalo operacional está na etapa de transporte, responsável pela maior diferença entre pedidos entregues no prazo e pedidos atrasados.
+
+![Comparação de pedidos](comparison_orders.png)
+
+---
+
+### Tempo médio por etapa logística
+
+A análise mostra que a etapa de transporte concentra a maior parte do lead time logístico, impactando diretamente a experiência do cliente e a satisfação com a entrega.
+
+![Lead time logístico](lead_time.png)
+---
 
 ## Estrutura da Análise
 
