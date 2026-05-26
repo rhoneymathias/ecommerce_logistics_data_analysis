@@ -60,6 +60,19 @@ A análise mostra que a etapa de transporte concentra a maior parte do lead time
 
 ---
 
+## Avaliação Acadêmica
+
+O projeto recebeu nota máxima (90/90) no Tech Challenge da pós-graduação em Data Analytics da FIAP.
+
+Feedback do professor:
+
+> “O relatório apresentado está em sintonia com o perfil de um documento estratégico voltado para a alta gestão.”
+
+> “Há equilíbrio entre profundidade técnica e aplicabilidade prática.”
+
+> “O storytelling conduz o leitor com fluidez desde o problema até a conclusão.”
+
+---
 ## Dataset
 
 Brazilian E-Commerce Public Dataset by Olist.
